@@ -1,0 +1,9 @@
+PyQt6
+numpy
+matplotlib
+geopy
+contextily
+requests
+scikit-learn
+pyproj
+scipy
