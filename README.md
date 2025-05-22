@@ -60,7 +60,6 @@ python mainGUI.py -K [YOUR_API_KEY] -D [CAPTURE_DIRECTORY]
 ## Preview example
 
 <img src="visuals/preview_1.png" alt="Terrain and weather input" height="333">
-<br>
 <img src="visuals/preview_2.png" alt="Multi-UAV visualization" height="350">
 
 ---
@@ -69,7 +68,6 @@ python mainGUI.py -K [YOUR_API_KEY] -D [CAPTURE_DIRECTORY]
 
 This simulator was developed for research purposes and is currently provided as a **demo-level framework**. Operators are encouraged to freely modify and extend the code for their own applications.
 
----
 
 ### Workflow Overview
 
@@ -109,8 +107,6 @@ This simulator was developed for research purposes and is currently provided as 
 
 <br>
   <img src="visuals/instruc_2.png" alt="Terrain and weather input" height="350">
-<br>
-<br>
 <img src="visuals/instruc_1.png" alt="Multi-UAV visualization" height="333">
 <br>
 
